@@ -1,0 +1,4 @@
+namespace Mvc;
+
+class User
+{}
